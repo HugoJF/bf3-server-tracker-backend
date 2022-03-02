@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gamedig": "^3.0.5"
+    "gamedig": "^3.0.7"
+  },
+  "devDependencies": {
+    "serverless-domain-manager": "^5.1.5"
   }
 }
